@@ -1,6 +1,6 @@
-#👋 Hola, soy Gonzalo Lossio
+# 👋 Hola, soy Gonzalo Lossio
 
-##🎓 Sobre Mí:
+## 🎓 Sobre Mí:
 Estudiante de **Ingeniería Informática** en la **Pontificia Universidad Católica del Perú (PUCP)**.  
 Me especializo en **resolver problemas mediante programación** con código eficiente y bien estructurado. 
 Buscando mi primera oportunidad profesional en **QA Manual** y **Desarrollo Junior**.
@@ -29,7 +29,7 @@ Buscando mi primera oportunidad profesional en **QA Manual** y **Desarrollo Juni
 - **Lenguajes**: C++, C
 - **Conceptos**: Programación modular, estructuras de datos, algoritmos
 
-## 📫 Conectemos
+## 📫 Contactos:
 - **LinkedIn**: Gonzalo Lossio - Linkedin (https://www.linkedin.com/in/gonzalo-lossio-50187b397/)
 - **Email**: gonzanesto@hotmail.com
 - **GitHub**: GonzaloLossio (https://github.com/GonzaloLossio)
